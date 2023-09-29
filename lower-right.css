@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.list1{
+    margin: 50px 20px;
+}
+
+.booklist{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    width: 90%;
+}
+
+.book:hover{
+    box-shadow: -5px -5px 50px 10px rgb(229, 182, 231);
+    cursor: pointer;
+}
