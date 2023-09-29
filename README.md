@@ -29,4 +29,4 @@ Welcome to Car Models </h2>
 <h3 align center>
 <li>
 Totota Supra </li></h3>
-<p align center>Price=" 85lakhs"</p>
+<p align center>Price=" 85 lakhs"</p>
